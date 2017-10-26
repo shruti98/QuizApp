@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FDD835</item>
+        <item name="colorPrimaryDark">#FDD835</item>
+        <item name="colorAccent">#F44336</item>
+    </style>
+
+    <style name="layoutbeforeradio">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="questextview">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="ques">
+        <item name="android:layout_marginRight">15dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+
+</resources>

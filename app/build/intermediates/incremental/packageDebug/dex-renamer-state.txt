@@ -1,0 +1,7 @@
+#Thu Oct 26 00:09:41 IST 2017
+base.0=C\:\\Users\\Shruti Bihani\\AndroidStudioProjects\\Project1Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_67b2e2993fa5bb0f13b60bcc9a7e57e5e96054e8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Shruti Bihani\\AndroidStudioProjects\\Project1Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a011a0b4b7fecba032d9398c7b8413d4dee417c7\\classes.dex
+base.1=C\:\\Users\\Shruti Bihani\\AndroidStudioProjects\\Project1Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a011a0b4b7fecba032d9398c7b8413d4dee417c7
+file.0=C\:\\Users\\Shruti Bihani\\AndroidStudioProjects\\Project1Quiz\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_67b2e2993fa5bb0f13b60bcc9a7e57e5e96054e8\\classes.dex
